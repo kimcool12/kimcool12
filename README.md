@@ -25,9 +25,7 @@
   
 <p align="left">
 
-  <a href="https://discord.com/channels/@me">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
+ 
 
   <a href="https://github.com/kimcool12/kimcool12/tree/main">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
